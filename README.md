@@ -15,12 +15,12 @@ This projects shows how to import a network and how to create a random network w
 - Creating a random graph with Erdös-Renyi Model and also its analysis
 
 ## Terminology
-**Network** consist of two or more 'nodes' that are linked to each other with 'edges' to share information. 
-**Node (Vertex)** is the component of the system. N is the size of the network. 
-**Link (Edge)** is the connections between nodes. L is the number of interactions(links) between the nodes. 
-**Degree** of the i-th node is the number of links attached (in or out) to the node. 
-**Path** is a route that runs along the links of the network. 
-**Clustering Coefficient** is the number of the triangles that includes root node(i-th node).
+- **Network** consist of two or more 'nodes' that are linked to each other with 'edges' to share information. 
+- **Node (Vertex)** is the component of the system. N is the size of the network. 
+- **Link (Edge)** is the connections between nodes. L is the number of interactions(links) between the nodes. 
+- **Degree** of the i-th node is the number of links attached (in or out) to the node. 
+- **Path** is a route that runs along the links of the network. 
+- **Clustering Coefficient** is the number of the triangles that includes root node(i-th node).
 
 > {network, node, link} terms often refers to real systems
 > {graph, vertex, edge} terms refers to mathematical representation of networks

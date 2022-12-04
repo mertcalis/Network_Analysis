@@ -84,7 +84,7 @@ nx.draw(G)
 ![indir (1)](https://user-images.githubusercontent.com/44343742/205502915-25026a5f-ea7f-4266-962b-5e7c7ae3d6bf.png)
 
 
-## Clustering Coefficient Distribution and Avg Clusterin Coefficient
+## Clustering Coefficient Distribution and Avg Clustering Coefficient
 ```sh
 def avg_Clus_Coeff(Graph):
     gc = Graph.subgraph(max(nx.connected_components(Graph)))

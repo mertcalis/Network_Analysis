@@ -169,7 +169,4 @@ nx.draw(graphh)
 ![indir (5)](https://user-images.githubusercontent.com/44343742/205502976-4da77761-0b30-43b8-8ac9-ec17683dd068.png)
 
 
-## License
-
-MIT
 
